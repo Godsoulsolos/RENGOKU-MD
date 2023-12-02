@@ -1,4 +1,4 @@
-FROM quay.io/excelottah6/IZUKU-MD
+FROM quay.io/excelottah6/izuku-md
 RUN git clone https://github.com/Godsoulsolos/RENGOKU-MD /root/Godsoulsolos
 WORKDIR /root/Godsoulsolos/
 RUN npm install npm@latest
