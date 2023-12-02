@@ -1,4 +1,4 @@
-FROM quay.io/sampandey001/secktor
+FROM quay.io/excelottah6/IZUKU-MD
 RUN git clone https://github.com/Godsoulsolos/RENGOKU-MD /root/Godsoulsolos
 WORKDIR /root/Godsoulsolos/
 RUN npm install npm@latest
