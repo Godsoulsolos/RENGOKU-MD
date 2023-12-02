@@ -36,7 +36,7 @@
 1. ***Get [SESSION-ID](https://replit.com/@Excelottah/BLACK-Md) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/excelottah6/IZUKU-MD/fork)***
+2. ***Click [FORK](https://github.com/Godsoulsolos/RENGOKU-MD/fork)***
  
 ---
 
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/excelottah6/IZUKU-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Godsoulsolos/RENGOKU-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
