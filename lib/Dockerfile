@@ -1,4 +1,4 @@
-FROM quay.io/sampandey001/secktor
+FROM quay.io/excelottah6/izuku-md
 RUN git clone https://github.com/Godsoulsolos/RENGOKU-MD /root/RENGOKU-MD
 WORKDIR /root/RENGOKU-MD/
 RUN npm install npm@latest
