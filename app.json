@@ -1,14 +1,14 @@
 {
-  "name": "IZUKU-Md by excel ",
+  "name": "RENGOKU-Md by Apollo/Godsoul",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3845ab217fafcab86ddf5.jpg",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSls0h7UGrde0yONGNSKhzkl6iV6uG1z_-xhdjiIWDknQ1s8v4cF9DqxXrw&s=10",
   "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "IzukuBot", "Secktor","IZUKUMD","theme bot","multi device","baileys","excel"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Izuku Midoriya"
+      "value": "Kyojuro Rengoku"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -28,7 +28,7 @@
     },
  "HEROKU_APP_NAME": {
     "description": "This field will be ignored. Heroku will generate a random app name.",
-    "required": "true"
+    "required":true
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
@@ -49,7 +49,7 @@
      "required" :false
     },
   "LEVEL_UP_MESSAGE": {
-    "description": "Fill the value true if you want bot send Level up message in chat.",
+    "description": "Fill the value true if you want bot send Level up message in chat,if you don't want it write false.",
      "required" :false,
      "value": "true"
     },
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "2347039570336"
+       "value": "2349070616688"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
@@ -88,7 +88,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are IZUKU,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "IZUKU"
+     "value": "GENOS"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
