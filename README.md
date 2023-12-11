@@ -181,11 +181,12 @@
     __________________________
     <br>
 </p>
-<p align="center">
-#Copyrighters and modifiers will be handled with the highest form of justice. 
 
 
 </details>
 
 <br>
+<p align="center">
+Copyrighters and modifiers will be handled with the highest form of justice. 
+
 
