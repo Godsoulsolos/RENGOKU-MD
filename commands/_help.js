@@ -38,8 +38,8 @@ Secktor.cmd({
             let str = `
 ┏━━━━━•❃〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙❃•━━━━━┓`
             str += `
-┃ ⛥┏━━━━━•❃°•°•━━━━━•❃°•°•      
-•͙͙✧⃝•͙ User: ${citel.pushName}
+┃ ⛥┏━━━━━•❃°•°•━━━━━•❃°•°•     
+•͙͙✧⃝•͙ User Of Rengoku: ${citel.pushName}
 •͙͙✧⃝•͙ Theme: ${tlang().title}
 •͙͙✧⃝•͙│ Prefix: ${prefix}
 •͙͙✧⃝•͙ Owner: ${Config.ownername}
@@ -64,7 +64,7 @@ Secktor.cmd({
         pattern: "owner",
         desc: "To find owner number",
         category: "general",
-        react: "👾",
+        react: "🧙‍♂️",
         filename: __filename
     },
     async(Void, citel) => {
