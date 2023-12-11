@@ -3,13 +3,14 @@
   <a href="https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE">
     <img alt=Support height="400" src="https://w0.peakpx.com/wallpaper/554/825/HD-wallpaper-rengoku-demon-slayer.jpg"> 
     </p>
-<h1 align="center"> 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
+<h1 align="center"> RENGOKU-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃
 </h1>
 <p align="center"> 
- ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ ᴱˣᶜᴱᴸ  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
+ Hello there I'm Apollo or God soul. This is a WhatsApp bot designed to make your WhatsApp much more easier to use. 
+ I was coded by excel, screened and debugger by Apollo or God soul and I was deploy by layefa7. 
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝙸𝚉𝚄𝙺𝚄-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM 𝙸𝚉𝚄𝙺𝚄-𝙼𝙳." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+RENGOKU-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+EXCEL;PUBLIC+RELESED; ...;TEAM RENGOKU-𝙼𝙳." alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -17,16 +18,16 @@
 
 <p align="right">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/IZUKU-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/Godsoulsolos/RENGOKU-MD" />
   </a>
   
   
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Godsoulsolos}/count.svg" alt="Godsoulsolos :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ IZUKU Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+ <a href="https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ RENGOKU Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
 
