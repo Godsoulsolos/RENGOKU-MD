@@ -119,9 +119,9 @@ cmd({
 ╭┈─────────────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/excelottah6/IZUKU-MD
-│*🏘Group:* https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL
-│*🧑‍💻Deploy IZUKU MD*:https://github.com/excelottah6/IZUKU-MD
+│*📡 Repo:* https://github.com/Godsoulsolos/RENGOKU-MD
+│*🏘Group:* https://chat.whatsapp.com/KikbsxTNv529iOlvIL14RE
+│*🧑‍💻Deploy RENGOKU MD*:https://github.com/Godsoulsolos/RENGOKU-MD
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -130,7 +130,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "IZUKU-Repo",
+                    title: "RENGOKU-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -202,8 +202,8 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in IZUKU *"
-str+=`1. IZUKU\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15 Eren Jeager\n\n these are the themes of IZUKU Userbot.\_Reply ${prefix}setvar THEME:GARENA`
+let str="*All available themes in RENGOKU *"
+str+=`1. IZUKU\n2. ADAM\n3. AYANOKOJI\n4. EDITH\n5. FRIDAY\n6. GENOS\n7. GIDEON\n8. GOKU\n9. LUFFY\n10. NARUTO\n11. NEZUKO\n12. PARKER\n13. GARENA\n14. SECKTOR\n15.Eren Jeager\n.16 RENGOKU\n these are the themes of IZUKU Userbot.\_Reply ${prefix}setvar THEME:GARENA`
 return citel.reply(str)
     
 }
